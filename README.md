@@ -7,10 +7,10 @@
 
 The goal of this competition is to predict 1 specific kind of error - under extrusion.
 **Data Provided**-Training and Test Images came in 7 printer folders,Train and test CSV's given. Training images **(81,060)** ,Test Images **(25,279)**.
-**Steps taken:- **
 
-  1.Separation and merging of training and test files coming from the 7 printers into their respective folders.
-  2.Separation of train,valdiation and test images from the training sets of images.
-  3.Separation of images into their classes i.e. into has under extrusion or doesn't have under extrusion images for each image input.Train,Validation & test 2 classes each. 
+**Steps taken:- **
+1.Separation and merging of training and test files coming from the 7 printers into their respective folders.
+2.Separation of train,valdiation and test images from the training sets of images.
+3.Separation of images into their classes i.e. into has under extrusion or doesn't have under extrusion images for each image input.Train,Validation & test 2 classes each. 
 
 
